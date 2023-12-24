@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+# ignore all the files in the virtualenv directory
+# except the pip-selfcheck.json file
+/bin/*
+/lib/*
